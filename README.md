@@ -6,5 +6,5 @@ I've been tumbling down the AI rabbit hole for a while and am surfacing stuff he
 Also: agent-rules (standing instructions that are not a persona)
 and token-top (token usage across Claude Code, Codex, Grok).
 
-I'm also building a native AI InfoSec company from the ground up. See https://inferencesecurity.ai
+I'm also building a native AI InfoSec company from the ground up - https://inferencesecurity.ai
 
